@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gibsucker
+- 👀 I’m interested in game dev, automation and gimmicky codes
+- 🌱 I’m currently learning Python and the basics of Java 
+- ♨️ I'm intermediate in Python
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Im developing a text-based game in Python
